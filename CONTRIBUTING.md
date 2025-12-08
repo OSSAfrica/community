@@ -125,9 +125,9 @@ Add your profile to connect with other community members.
 ## Contribution Process
 
 1. **Fork the Repository**
-   ```bash
-   git fork https://github.com/OSSAfrica/community.git
-   ```
+   - Go to https://github.com/OSSAfrica/community
+   - Click the "Fork" button in the top right corner
+   - This creates a copy of the repository in your GitHub account
 
 2. **Clone Your Fork**
    ```bash

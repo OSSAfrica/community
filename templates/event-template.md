@@ -105,7 +105,7 @@
 
 ## Code of Conduct
 
-This event follows the [OSSAfrica Community Code of Conduct](../CODE_OF_CONDUCT.md).
+This event follows the [OSSAfrica Community Code of Conduct](https://github.com/OSSAfrica/community/blob/main/CODE_OF_CONDUCT.md).
 
 ## Contact
 

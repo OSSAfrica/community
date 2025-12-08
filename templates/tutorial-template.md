@@ -59,8 +59,9 @@ By the end of this tutorial, you will be able to:
 
 [Detailed instructions for step 1]
 
-```bash
+```
 # Code examples if applicable
+# Replace the code block language with the appropriate one (bash, python, javascript, etc.)
 ```
 
 ### Step 2: [Step Title]
