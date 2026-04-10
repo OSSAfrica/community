@@ -244,6 +244,19 @@ If you need help or have questions:
 - Reach out to maintainers
 - Check existing documentation
 
+## Official Channels
+
+Follow OSSAfrica for updates, events, and announcements:
+
+- [LinkedIn](https://www.linkedin.com/company/ossafrica)
+- [Instagram](https://www.instagram.com/ossafrica)
+- [X (Twitter)](https://x.com/ossafrica_org)
+- [Mastodon](https://mastodon.social/)
+- [Bluesky](https://ossafrica.bsky.social)
+- [TikTok](https://www.tiktok.com/@ossafrica)
+- [Substack](https://substack.com/@ossafrica)
+- [WhatsApp Channel](https://whatsapp.com/channel/0029VbCVG4U23n3omcL1U20u)
+
 ## Recognition
 
 All contributors are valued and recognized:
