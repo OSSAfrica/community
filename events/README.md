@@ -32,3 +32,7 @@ To add an event:
 - **Webinars** - Online presentations and discussions
 
 See the [CONTRIBUTING.md](../CONTRIBUTING.md) for detailed guidelines.
+
+## Index
+
+- [Example: OSSAfrica Docs Clinic](2026-05-15-ossafrica-docs-clinic-example.md)

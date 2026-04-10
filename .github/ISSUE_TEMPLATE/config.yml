@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Support and Questions
+    url: https://github.com/OSSAfrica/community/issues
+    about: Use issues for support requests and repository questions.
+  - name: Code of Conduct
+    url: https://github.com/OSSAfrica/community/blob/main/CODE_OF_CONDUCT.md
+    about: Review behavior expectations and reporting guidance.

@@ -21,3 +21,7 @@ To add your article:
 - Tags/topics covered
 
 See the [CONTRIBUTING.md](../../CONTRIBUTING.md) for detailed guidelines.
+
+## Index
+
+- [Example: How To Submit Your First Open Source PR](example-intro-to-first-open-source-pr.md)

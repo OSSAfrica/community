@@ -22,3 +22,7 @@ To add your project:
 - Contact information
 
 See the [CONTRIBUTING.md](../../CONTRIBUTING.md) for detailed guidelines.
+
+## Index
+
+- [Example: Community Weather Alerts](example-community-weather-alerts.md)

@@ -1,0 +1,40 @@
+name: Content submission help
+description: Request guidance before submitting projects, articles, talks, tutorials, events, or member profiles.
+title: "submission-help: "
+labels:
+  - triage
+body:
+  - type: dropdown
+    id: category
+    attributes:
+      label: Contribution category
+      options:
+        - Project
+        - Article
+        - Talk
+        - Tutorial
+        - Event
+        - Member profile
+        - Resource
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: What do you want to submit?
+      description: Share your draft idea or summary.
+    validations:
+      required: true
+  - type: textarea
+    id: blockers
+    attributes:
+      label: Current blocker
+      description: What do you need help with?
+      placeholder: Template choice, formatting, scope, quality checks, etc.
+    validations:
+      required: true
+  - type: textarea
+    id: links
+    attributes:
+      label: Draft links
+      description: Add draft docs, repositories, or references.

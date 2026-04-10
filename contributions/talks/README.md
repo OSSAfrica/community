@@ -22,3 +22,7 @@ To add your talk:
 - Topics covered
 
 See the [CONTRIBUTING.md](../../CONTRIBUTING.md) for detailed guidelines.
+
+## Index
+
+- [Example: Building Sustainable Open Source Communities](example-building-open-source-communities.md)

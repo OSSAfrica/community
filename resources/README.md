@@ -34,3 +34,8 @@ Resources can be organized by:
 - **Documentation** - How-to guides and documentation
 
 See the [CONTRIBUTING.md](../CONTRIBUTING.md) for detailed guidelines.
+
+## Index
+
+- [Example: Open Source Starter Pack](example-open-source-starter-pack.md)
+- [Triage Guidelines](TRIAGE.md)

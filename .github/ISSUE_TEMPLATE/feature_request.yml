@@ -1,0 +1,32 @@
+name: Feature request
+description: Suggest an improvement for repository process, structure, or documentation.
+title: "proposal: "
+labels:
+  - enhancement
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem statement
+      description: What problem are you trying to solve?
+      placeholder: Describe the pain point or opportunity.
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed solution
+      description: What change do you recommend?
+      placeholder: Describe your proposal clearly.
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives considered
+      description: What other options did you consider?
+  - type: textarea
+    id: impact
+    attributes:
+      label: Expected impact
+      description: How would this improve contributor experience or repository quality?

@@ -23,3 +23,7 @@ To add your tutorial:
 - Estimated time to complete
 
 See the [CONTRIBUTING.md](../../CONTRIBUTING.md) for detailed guidelines.
+
+## Index
+
+- [Example: Git and GitHub Basics for New Contributors](example-git-and-github-basics.md)

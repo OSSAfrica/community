@@ -28,3 +28,7 @@ To add your member profile:
 Only include information you're comfortable sharing publicly. All fields except name are optional.
 
 See the [CONTRIBUTING.md](../CONTRIBUTING.md) for detailed guidelines.
+
+## Index
+
+- [Example: Contributor Profile](example-contributor-profile.md)
