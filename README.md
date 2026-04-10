@@ -1,118 +1,53 @@
 # OSSAfrica Community
 
-Welcome to the OSSAfrica community repository! This is a collaborative space for open-source enthusiasts across Africa to share knowledge, build projects, and advance technology on the continent.
+The OSSAfrica Community repository is a shared space for open source contributors across Africa to publish projects, articles, talks, tutorials, events, member profiles, and practical resources.
 
-## 🌍 About OSSAfrica
+## Mission
 
-OSSAfrica is dedicated to promoting open-source software development in Africa. We believe in the power of collaboration, knowledge sharing, and building technology solutions that address African challenges.
+We promote open source collaboration, inclusive learning, and community-led technology initiatives that solve real challenges across the continent.
 
-## 📁 Repository Structure
+## Quick Start
 
-### 🤖 [AI/ML](./ai-ml/)
+1. Read [CONTRIBUTING.md](CONTRIBUTING.md)
+2. Review [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)
+3. Choose the right template from [templates/](templates/README.md)
+4. Submit your content through a pull request
 
-The AI/ML directory contains resources, projects, and tutorials for artificial intelligence and machine learning work. This includes:
+## Repository Structure
 
-- **Projects**: Community AI/ML projects solving real-world problems
-- **Tutorials**: Step-by-step guides for learning AI/ML concepts
-- **Resources**: Curated learning materials, tools, and frameworks
-- **Datasets**: Information about datasets relevant to African contexts
-
-**[Explore AI/ML →](./ai-ml/README.md)**
-
-## 🚀 Getting Started
-
-1. **Explore**: Browse through different sections to find areas of interest
-2. **Learn**: Check out tutorials and resources to build your skills
-3. **Contribute**: Join ongoing projects or start your own
-4. **Connect**: Engage with the community through discussions and issues
-
-## 🤝 Contributing
-
-We welcome contributions from everyone! Whether you're fixing a typo, adding documentation, or building a new project, your contribution matters.
-
-- See section-specific CONTRIBUTING.md files for detailed guidelines
-- Start with small contributions to get familiar with the workflow
-- Ask questions if you're unsure about anything
-- Be respectful and collaborative
-
-## 📜 License
-
-This repository is licensed under the terms specified in the [LICENSE](./LICENSE) file.
-
-## 💬 Community
-
-- **Issues**: Report bugs or suggest features
-- **Discussions**: Ask questions and share ideas
-- **Pull Requests**: Contribute code and documentation
-
-## 🙏 Acknowledgments
-
-Thank you to all contributors who help build and maintain this community resource!
-
----
-
-**Join us in building the future of open-source technology in Africa!** 🚀✨
-Welcome to the OSSAfrica Community repository! This repository serves as a central hub for all community contributions, resources, and collaborative initiatives within the OSSAfrica ecosystem.
-
-## 📚 About
-
-This repository is designed to hold information about all community contributions, including:
-- Community member profiles and contributions
-- Project collaborations and partnerships
-- Community events and meetups
-- Resources and learning materials
-- Success stories and case studies
-
-## 🤝 Getting Started
-
-To get started with contributing to the OSSAfrica community:
-
-1. Read our [Contributing Guidelines](CONTRIBUTING.md)
-2. Review our [Code of Conduct](CODE_OF_CONDUCT.md)
-3. Explore the different contribution categories below
-4. Submit your contribution following the appropriate template
-
-## 📂 Repository Structure
-
-```
+```text
 community/
-├── contributions/          # Community member contributions
-│   ├── projects/          # Open source projects
-│   ├── articles/          # Blog posts and articles
-│   ├── talks/             # Conference talks and presentations
-│   └── tutorials/         # Learning tutorials and guides
-├── members/               # Community member profiles
-├── events/                # Community events and meetups
-├── resources/             # Shared resources and tools
-└── templates/             # Contribution templates
+├── contributions/
+│   ├── projects/
+│   ├── articles/
+│   ├── talks/
+│   └── tutorials/
+├── members/
+├── events/
+├── resources/
+└── templates/
 ```
 
-## 💡 How to Contribute
+## Contribution Types
 
-We welcome various types of contributions:
+- Projects
+- Articles
+- Talks
+- Tutorials
+- Events
+- Member Profiles
+- Resources and documentation improvements
 
-- **Projects**: Share your open source projects
-- **Articles**: Write blog posts about your experience
-- **Talks**: Submit presentations and talk proposals
-- **Tutorials**: Create learning materials
-- **Events**: Organize or promote community events
-- **Member Profiles**: Add your profile to connect with others
+## Community Standards
 
-Please see [CONTRIBUTING.md](CONTRIBUTING.md) for detailed instructions.
+- Contribution process: [CONTRIBUTING.md](CONTRIBUTING.md)
+- Code of conduct: [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)
+- Governance: [GOVERNANCE.md](GOVERNANCE.md)
+- Maintainers and review expectations: [MAINTAINERS.md](MAINTAINERS.md)
+- Support: [SUPPORT.md](SUPPORT.md)
+- Security reporting: [SECURITY.md](SECURITY.md)
+- Planned improvements: [ROADMAP.md](ROADMAP.md)
 
-## 🌍 Community
+## License
 
-- Join our discussions and connect with other contributors
-- Share your knowledge and learn from others
-- Collaborate on projects and initiatives
-- Help build a stronger African open source community
-
-## 📖 Resources
-
-- [Contributing Guidelines](CONTRIBUTING.md)
-- [Code of Conduct](CODE_OF_CONDUCT.md)
-- [Contribution Templates](templates/)
-
-## 📄 License
-
-This repository is licensed under the Apache License 2.0. See [LICENSE](LICENSE) for details.
+Licensed under Apache 2.0. See [LICENSE](LICENSE).

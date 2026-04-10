@@ -125,7 +125,7 @@ Add your profile to connect with other community members.
 ## Contribution Process
 
 1. **Fork the Repository**
-   - Go to https://github.com/OSSAfrica/community
+   - Go to [github.com/OSSAfrica/community](https://github.com/OSSAfrica/community)
    - Click the "Fork" button in the top right corner
    - This creates a copy of the repository in your GitHub account
 
@@ -161,14 +161,14 @@ Add your profile to connect with other community members.
    - Go to the original repository
    - Click "New Pull Request"
    - Select your branch
-   - Fill in the PR template
+   - Fill in the PR template at `.github/pull_request_template.md`
    - Submit for review
 
 ## Directory Structure
 
 Please place your contributions in the correct directory:
 
-```
+```text
 community/
 ├── contributions/
 │   ├── projects/          # Open source project submissions
@@ -225,6 +225,16 @@ All contributions should:
 2. Feedback may be provided for improvements
 3. Once approved, contributions are merged
 4. Contributors are acknowledged in the community
+
+## Issues and Proposals
+
+Use issue templates under `.github/ISSUE_TEMPLATE/` to keep reports actionable:
+
+- Bug report: repository problems in docs/templates/automation
+- Feature request: process and community improvements
+- Content submission help: guidance before opening a pull request
+
+For policy or process-level changes, open an issue first to gather feedback before submitting a pull request.
 
 ## Getting Help
 

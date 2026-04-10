@@ -1,1 +1,22 @@
+# Global fallback ownership
 * @org-admins
+
+# Governance and top-level policy documents
+/README.md @org-admins
+/CONTRIBUTING.md @org-admins
+/CODE_OF_CONDUCT.md @org-admins
+/GOVERNANCE.md @org-admins
+/MAINTAINERS.md @org-admins
+/ROADMAP.md @org-admins
+/SECURITY.md @org-admins
+/SUPPORT.md @org-admins
+
+# Community content areas
+/contributions/ @org-admins
+/events/ @org-admins
+/members/ @org-admins
+/resources/ @org-admins
+
+# Templates and repository automation
+/templates/ @org-admins
+/.github/ @org-admins
