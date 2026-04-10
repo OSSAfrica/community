@@ -48,6 +48,19 @@ community/
 - Security reporting: [SECURITY.md](SECURITY.md)
 - Planned improvements: [ROADMAP.md](ROADMAP.md)
 
+## Social Media
+
+Follow OSSAfrica for community updates, events, stories, and announcements:
+
+- [LinkedIn](https://www.linkedin.com/company/ossafrica)
+- [Instagram](https://www.instagram.com/ossafrica)
+- [X (Twitter)](https://x.com/ossafrica_org)
+- [Mastodon](https://mastodon.social/)
+- [Bluesky](https://ossafrica.bsky.social)
+- [TikTok](https://www.tiktok.com/@ossafrica)
+- [Substack](https://substack.com/@ossafrica)
+- [WhatsApp Channel](https://whatsapp.com/channel/0029VbCVG4U23n3omcL1U20u)
+
 ## License
 
 Licensed under Apache 2.0. See [LICENSE](LICENSE).
