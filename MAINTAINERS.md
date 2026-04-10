@@ -9,7 +9,7 @@ This file lists maintainers and ownership scope for the OSSAfrica Community repo
 | @PrinceAsiedu | Global | Review, moderation, escalations |
 | @iamcerebroceberus | Global | Review, moderation, escalations |
 | @kurtiz | Global | Review, moderation, escalations |
-| @CalebAckom | Global | Review, moderation, escalations
+| @CalebAckom | Global | Review, moderation, escalations |
 
 ## Review Service Levels
 
